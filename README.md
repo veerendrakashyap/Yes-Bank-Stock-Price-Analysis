@@ -49,38 +49,6 @@ The analysis answers critical questions about stock trends, market sentiment, an
 ├── README.md                       # Project documentation
 ```
 
----
-
-## 🚀 **How to Run the Project**
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your_username/yes-bank-eda.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd yes-bank-eda
-```
-
-3. Install the required libraries:
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-4. Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-5. Open `yes_bank_stock_analysis.ipynb` and run all cells to view the analysis.
-
----
-
 ## 🏁 **Conclusion**
 
 This project showcases how data analysis and visualization can transform raw stock data into actionable insights. By exploring historical trends, trading volumes, and volatility patterns, the analysis equips investors with valuable information to make strategic trading decisions.Whether you're an individual investor, a market analyst, or a finance enthusiast, this project demonstrates the power of EDA in stock market research and decision-making.
